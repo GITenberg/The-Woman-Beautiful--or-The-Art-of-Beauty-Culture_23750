@@ -1,0 +1,28 @@
+_repo: The-Woman-Beautiful--or-The-Art-of-Beauty-Culture_23750
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 23750-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Jameson, Helen Follett
+    aliases:
+    - Stevans, Helen Follett
+    - Qui Vive, Mme.
+    birthdate: 1873
+    gutenberg_agent_id: '26012'
+    url: http://www.gutenberg.org/2009/agents/26012
+description: ''
+gutenberg_issued: '2007-12-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23750'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'RA'
+- !lcsh 'Beauty, Personal'
+title: The Woman Beautiful; or, The Art of Beauty Culture
+url: http://www.gutenberg.org/ebooks/23750
