@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '26012'
     url: http://www.gutenberg.org/2009/agents/26012
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23750#The-Woman-Beautiful--or-The-Art-of-Beauty-Culture
 gutenberg_issued: '2007-12-06'
 gutenberg_type: Text
 identifiers:
